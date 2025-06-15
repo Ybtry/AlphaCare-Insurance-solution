@@ -1,15 +1,31 @@
+<<<<<<< HEAD
+=======
 # Python
+>>>>>>> main
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 .Python
 env/
+<<<<<<< HEAD
+/.venv/
+=======
 venv/
+>>>>>>> main
 *.egg
 *.egg-info/
 dist/
 build/
+<<<<<<< HEAD
+.ipynb_checkpoints/
+*.csv
+.vscode/
+.dvc/cache/
+.dvc/tmp/
+data/.dvc_cache/
+data/.gitignore
+=======
 
 # Jupyter Notebook
 .ipynb_checkpoints/
@@ -21,3 +37,4 @@ build/
 
 # DVC
 .dvc/
+>>>>>>> main
