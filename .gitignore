@@ -1,14 +1,23 @@
+<<<<<<< HEAD
+=======
+# Python
+>>>>>>> main
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 .Python
 env/
+<<<<<<< HEAD
 /.venv/
+=======
+venv/
+>>>>>>> main
 *.egg
 *.egg-info/
 dist/
 build/
+<<<<<<< HEAD
 .ipynb_checkpoints/
 *.csv
 .vscode/
@@ -16,3 +25,16 @@ build/
 .dvc/tmp/
 data/.dvc_cache/
 data/.gitignore
+=======
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data
+*.csv 
+# VS Code
+.vscode/
+
+# DVC
+.dvc/
+>>>>>>> main
